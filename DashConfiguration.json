@@ -1,0 +1,48 @@
+{
+    "specialEvents": [
+        {
+            "id": "christmas",
+            "dates": [
+                "2017-12-24",
+                "2017-12-25"
+            ],
+            "title": "Feliz Natal!",
+            "background": {
+                "color1": "#EF6696",
+                "color2": "#EE2E5D",
+                "locations": [
+                    0.0,
+                    1.0
+                ],
+                "direction": "vertical",
+                "angle": null
+            },
+            "emoji": [
+                "🎄🎄🎄"
+            ],
+            "animation": "https://raw.githubusercontent.com/warrenbrasil/animations/master/events/christmas/data.json"
+        },
+        {
+            "id": "newYear",
+            "dates": [
+                "2017-12-31",
+                "2018-01-01"
+            ],
+            "title": "Feliz Ano Novo!",
+            "background": {
+                "color1": "#2E2D33",
+                "color2": "#006BD6",
+                "locations": [
+                    0.0,
+                    1.0
+                ],
+                "direction": "vertical",
+                "angle": null
+            },
+            "emoji": [
+                "🥂🍾🥂"
+            ],
+            "animation": "https://raw.githubusercontent.com/warrenbrasil/animations/master/events/newYear/data.json"
+        }
+    ]
+}
