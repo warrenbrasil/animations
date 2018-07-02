@@ -20,7 +20,7 @@
                 "🇧🇷🇧🇷🇧🇷",
                 "🏆🏆🏆"
             ],
-            "animation": "https://raw.githubusercontent.com/warrenbrasil/animations/master/events/christmas/data.json"
+            "animation": null
         },
         {
             "id": "newYear",
